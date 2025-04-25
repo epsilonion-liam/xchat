@@ -146,7 +146,6 @@ All rights reserved. This software is provided for use under the following condi
 - You may use and modify this software for personal or organizational purposes
 - You may not redistribute this software without explicit permission
 - You must maintain all branding and attribution in user-facing elements
-- You may not use this code for commercial purposes without permission from Tempest Solutions
 
 The "Powered by Tempest Solutions" branding in message footers must be maintained in all deployments and modifications of this software.
 
