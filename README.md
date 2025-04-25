@@ -99,7 +99,6 @@ All configuration slash commands in this bot require Discord Administrator permi
 1. In your Telegram group, send the command `/chatid` or `/id`
 2. The bot will reply with the chat ID (usually looks like `-123456789`)
 3. Copy this chat ID
-4. Alternatively, use `/get_telegram_updates` in Discord to see recent messages and chat IDs
 
 ### Step 4: Link Discord and Telegram
 1. In Discord, use the command `/link_telegram -123456789` (replace with your actual chat ID)
