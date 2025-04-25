@@ -140,7 +140,7 @@ All configuration slash commands in this bot require Discord Administrator permi
    - Make sure to include the minus sign when linking the chat
 
 ## License
-This software is copyright © Tempest Solutions 2024-2025.
+This software is copyright © Tempest Solutions 1997-2025.
 
 All rights reserved. This software is provided for use under the following conditions:
 - You may use and modify this software for personal or organizational purposes
