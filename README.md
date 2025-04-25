@@ -26,7 +26,7 @@ This bot enables seamless communication between Discord and Telegram platforms. 
 
 1. Clone this repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tempest-Solutions-Company/xchat
 cd cross-platform-bot
 ```
 
@@ -115,15 +115,10 @@ All configuration slash commands in this bot require Discord Administrator permi
 - `/set_chat_channel` - Set the Discord channel for cross-platform chat
 - `/link_telegram` - Link a Telegram chat to the current Discord channel
 - `/telegram_invite_link` - Get an invite link for your Telegram bot
-- `/telegram_setup_guide` - Step-by-step setup instructions
-- `/test_telegram` - Test if your bot can connect to Telegram
 
 ### Utility Commands
-- `/get_telegram_updates` - Get recent updates from Telegram (useful for finding chat IDs)
 - `/reset_telegram_config` - Reset all Telegram chat configurations
-- `/telegram_help` - Get help with Telegram setup
 - `/explain_crosschat` - Learn how the cross-platform chat works
-- `/telegram_troubleshoot` - Troubleshooting guide for common issues
 
 ## Troubleshooting
 
@@ -145,20 +140,6 @@ All configuration slash commands in this bot require Discord Administrator permi
 4. **Getting the right Chat ID**:
    - Group chat IDs typically start with a minus sign (e.g., `-1001234567890`)
    - Make sure to include the minus sign when linking the chat
-
-If you continue having issues, use `/telegram_troubleshoot` for a guided troubleshooting process.
-
-## File Structure
-```plaintext
-cross-platform-bot/
-├── main.py
-├── .env
-├── plugins/
-│   ├── __init__.py
-│   ├── example.py
-│   └── crosschat.py
-└── crosschat_config.json
-```
 
 ## License
 This software is copyright © Tempest Solutions 2024-2025.
