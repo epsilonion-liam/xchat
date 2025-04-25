@@ -157,4 +157,4 @@ All messages relayed through this bot include a footer with "Powered by Tempest 
 ## Contact Information
 For licensing inquiries or commercial use permission:
 - Website: https://tempest-solutions.org.uk
-- Contact: info@tempest-solutions.org.uk
+
