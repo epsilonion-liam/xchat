@@ -27,7 +27,6 @@ This bot enables seamless communication between Discord and Telegram platforms. 
 1. Clone this repository
 ```bash
 git clone https://github.com/Tempest-Solutions-Company/xchat
-cd cross-platform-bot
 ```
 
 2. Install required packages
